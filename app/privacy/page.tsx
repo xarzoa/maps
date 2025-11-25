@@ -7,7 +7,6 @@ export default function Privacy() {
             Privacy Policy
           </h1>
           <p className="text-gray-400 mb-8">Effective Date: October 26, 2023</p>
-
           <section className="mb-12">
             <h2 className="text-2xl text-white font-serif mb-4">
               1. Information We Collect
@@ -25,7 +24,6 @@ export default function Privacy() {
               <li>Menu items and pricing information.</li>
             </ul>
           </section>
-
           <section className="mb-12">
             <h2 className="text-2xl text-white font-serif mb-4">
               2. How We Use Information
@@ -38,7 +36,6 @@ export default function Privacy() {
               information to third parties.
             </p>
           </section>
-
           <section className="mb-12">
             <h2 className="text-2xl text-white font-serif mb-4">
               3. Data Security
@@ -50,7 +47,6 @@ export default function Privacy() {
               data.
             </p>
           </section>
-
           <section className="mb-12">
             <h2 className="text-2xl text-white font-serif mb-4">
               4. Your Rights

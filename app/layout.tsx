@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { ThemeProvider } from "@/components/theme";
 import "./globals.css";
 import { Pacifico } from "next/font/google";
-import Header from "@/components/landing/header";
 import Footer from "@/components/landing/footer";
+import Header from "@/components/landing/header";
 
 export const metadata: Metadata = {
   title: "Maps by DuckLabs",
